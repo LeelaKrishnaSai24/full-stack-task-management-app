@@ -27,5 +27,5 @@ This is the frontend part of a food delivery website built using Vite and React.
 
 To run the project locally, follow these steps:
 
-1. Clone this repository: 
+1. Clone this repository: https://github.com/LeelaKrishnaSai24/full-stack-task-management-app.git
 
